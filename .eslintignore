@@ -1,0 +1,9 @@
+node_modules
+test
+*.json
+*.md
+*.MD
+.DS_STORE
+*.sh
+*.log
+coverage
